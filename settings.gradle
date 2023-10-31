@@ -1,0 +1,5 @@
+
+rootProject.name="micronaut-eval"
+
+include("app")
+include("infra")
